@@ -20,7 +20,7 @@ export default function HomePage() {
       </Head>
 
       <div className='min-h-screen  bg-black-300'>
-        <FormComponent />
+        <p>Loading...</p>
       </div>
 
     </main>
